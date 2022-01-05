@@ -6,6 +6,7 @@ In order to understand the code please first read "PROJECT_PAPER.pdf" so that yo
 After every effect, audio is analyzed in frequency and time domain.
 
 Credits:
+
 -Yakup Yıldız (Currently student in Gebze Technical University)
 
 -Berkay Arslan (Currently student in Gebze Technical University)
