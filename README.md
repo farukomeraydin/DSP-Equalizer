@@ -7,8 +7,8 @@ After every effect, audio is analyzed in frequency and time domain.
 
 Credits:
 
--Yakup Yıldız (Currently student in Gebze Technical University)
+-Yakup Yıldız 
 
--Berkay Arslan (Currently student in Gebze Technical University)
+-Berkay Arslan
 
--Ömer Faruk Aydın (Currently student in Gebze Technical University)
+-Ömer Faruk Aydın
